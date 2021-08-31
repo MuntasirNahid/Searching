@@ -1,14 +1,3 @@
-/* Your Love Makes Me STRONG,
-   Your Hate Makes Me UNSTOPABBLE.
-
-   HOPE is a good thing,maybe the BEST of things.
-   And no GOOD Things EVER DIES.
-
-   Keep calm,Be patient And Chase Your DREAM
-
-*/
-
-
 /*
 Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array.
  If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half.
